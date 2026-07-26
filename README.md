@@ -15,17 +15,17 @@
 # 浏览器扩展备份  
 | 扩展名称 | 简单介绍 | 安装地址 |
 | --- | --- | --- |
-| Bitwarden Password Manager | 开源的跨平台密码管理器，可以保存账号、密码、安全笔记和银行卡等信息，并在电脑与手机之间同步；还支持自动填充、随机密码生成和通行密钥。安装后建议为密码库设置强主密码并开启二步验证，主密码不要与其他网站共用 | [Bitwarden Password Manager](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb) |
-| Dark Reader | 为网页生成深色主题，可以分别调整亮度、对比度、灰度和色温，也能针对不同网站单独启用或关闭。部分网站已经自带深色模式，两者同时开启可能导致颜色异常，此时将该网站加入排除列表即可 | [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) |
-| iCloud 书签 | 将 Windows 浏览器中的书签与 iPhone、iPad 和 Mac 上 Safari 的书签保持同步，适合同时使用 Windows 与苹果设备的人。该扩展需要配合 Windows 版 iCloud 使用，单独安装扩展无法完成同步 | [iCloud 书签](https://chromewebstore.google.com/detail/icloud-bookmarks/fkepacicchenbjecpbpbclokcabebhah) |
-| IDM Integration Module | Internet Download Manager 的官方浏览器集成模块，可以把浏览器中的普通下载、视频和音频链接交给 IDM 处理，并在支持的网站上显示下载浮动按钮。它需要先在电脑上安装 IDM 客户端，只有扩展本身不能独立下载 | [IDM Integration Module](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) |
-| iTab新标签页 | 用来替换浏览器默认的新标签页，可以集中放置网站图标、搜索框、天气、日历、倒计时、壁纸和常用小组件，并支持登录同步配置。它会接管新标签页，若以后更换同类扩展，应避免同时启用多个新标签页扩展 | [iTab新标签页](https://chromewebstore.google.com/detail/itab%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/mhloojimgilafopcmlcikiidgbbnelip) |
+| Bitwarden Password Manager | 开源的跨平台密码管理器，可以保存账号、密码、安全笔记和银行卡等信息，并在电脑与手机之间同步；还支持自动填充、随机密码生成和通行密钥。 | [Bitwarden Password Manager](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb) |
+| Dark Reader | 为网页生成深色主题，可以分别调整亮度、对比度、灰度和色温，也能针对不同网站单独启用或关闭。| [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) |
+| iCloud 书签 | 将 Windows 浏览器中的书签与 iPhone、iPad 和 Mac 上 Safari 的书签保持同步，适合同时使用 Windows 与苹果设备的人。| [iCloud 书签](https://chromewebstore.google.com/detail/icloud-bookmarks/fkepacicchenbjecpbpbclokcabebhah) |
+| IDM Integration Module | Internet Download Manager 的官方浏览器集成模块，可以把浏览器中的普通下载、视频和音频链接交给 IDM 处理，并在支持的网站上显示下载浮动按钮。需要先在电脑上安装 IDM 客户端，只有扩展本身不能独立下载 | [IDM Integration Module](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) |
+| iTab新标签页 | 用来替换浏览器默认的新标签页，可以集中放置网站图标、搜索框、天气、日历、倒计时、壁纸和常用小组件，并支持登录同步配置。| [iTab新标签页](https://chromewebstore.google.com/detail/itab%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/mhloojimgilafopcmlcikiidgbbnelip) |
 | RSSHub Radar | 自动检测当前网页提供的 RSS、Atom 以及 RSSHub 路由，并将订阅源发送到常用 RSS 阅读器，适合订阅博客、期刊、论坛和更新频繁的网站。由于不是一直需要查找订阅源，所以将它设为**默认关闭，需要时再开启** | [RSSHub Radar](https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa) |
 | SingleFile | 将当前网页的正文、样式和图片保存到一个独立的 HTML 文件中，方便离线阅读、网页归档和保存容易失效的资料，也支持批量保存标签页。保存复杂网页时可能占用较多内存和存储空间，因此将它设为**默认关闭，需要归档网页时再开启** | [SingleFile](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle) |
-| uBlacklist | 在 Google 等搜索引擎的结果中屏蔽不想看到的网站，可以直接在搜索结果旁添加网站到黑名单，也支持通配符、正则表达式、订阅黑名单以及跨设备同步。适合过滤采集站、低质量内容站和重复出现的网站 | [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) |
-| uBlock Origin Lite | 基于 Manifest V3 的轻量级内容过滤扩展，用于拦截广告、跟踪器和部分恶意网址。安装后通常不需要频繁操作；不过受 Manifest V3 限制，它的自定义规则和动态过滤能力弱于完整版 uBlock Origin | [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) |
-| V2EX Polish | 专为 V2EX 制作的增强扩展，可以改善页面排版和主题，并提供回复结构优化、内容预览、用户备注、主题过滤和快捷操作等功能。它与部分 V2EX 油猴脚本可能存在功能重叠，同时使用时应关闭重复功能 | [V2EX Polish](https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm) |
-| Zotero Connector | Zotero 的官方浏览器采集扩展，可以从期刊网站、数据库、图书页面和普通网页中识别文献元数据，并将题录、网页快照和可获取的 PDF 保存到 Zotero 文献库。日常使用时建议同时启动 Zotero 桌面客户端 | [Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc) |
-| 小电视空降助手 | B站视频片段跳过工具，可以根据社区提交的时间点自动跳过视频中的广告、赞助、片头片尾、求三连等片段，也可以自己标记并上传片段。社区标记并不一定完全准确，遇到误跳时可以临时撤销或调整跳过类型 | [小电视空降助手](https://chromewebstore.google.com/detail/%E5%B0%8F%E7%94%B5%E8%A7%86%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/eaoelafamejbnggahofapllmfhlhajdd) |
-| 简约翻译 | 支持网页全文、划词、输入框、视频字幕和 PDF 等多种翻译场景，并可以接入多种传统翻译服务或 AI 翻译接口。它更适合整页和双语对照阅读，也可以针对不同网站设置独立的翻译规则 | [简约翻译](https://chromewebstore.google.com/detail/kiss-translator/bdiifdefkgmcblbcghdlonllpjhhjgof) |
-| 篡改猴（Tampermonkey） | 用来安装、管理、启用和更新用户脚本的扩展，也是“油猴脚本备份”所依赖的脚本管理器。它本身不会自动提供网页功能，具体能力和风险取决于安装的用户脚本，因此脚本应尽量从可信来源安装并定期检查权限 | [篡改猴（Tampermonkey）](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
+| uBlacklist | 在 Google 等搜索引擎的结果中屏蔽不想看到的网站，屏蔽内容农场专用。可以直接在搜索结果旁添加网站到黑名单，也支持通配符、正则表达式、订阅黑名单以及跨设备同步。适合过滤采集站、低质量内容站和重复出现的网站 | [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) |
+| uBlock Origin Lite | 基于 Manifest V3 的轻量级内容过滤扩展，用于拦截广告、跟踪器和部分恶意网址。 | [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) |
+| V2EX Polish | 专为 V2EX 制作的增强扩展，可以改善页面排版和主题，并提供回复结构优化、内容预览、用户备注、主题过滤和快捷操作等功能。 | [V2EX Polish](https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm) |
+| Zotero Connector | 读文献必装，Zotero 的官方浏览器采集扩展，可以从期刊网站、数据库、图书页面和普通网页中识别文献元数据，并将题录、网页快照和可获取的 PDF 保存到 Zotero 文献库。 | [Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc) |
+| 小电视空降助手 | B站视频片段跳过工具，可以根据社区提交的时间点自动跳过视频中的广告、赞助、片头片尾、求三连等片段，也可以自己标记并上传片段。 | [小电视空降助手](https://chromewebstore.google.com/detail/%E5%B0%8F%E7%94%B5%E8%A7%86%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/eaoelafamejbnggahofapllmfhlhajdd) |
+| 简约翻译 | 沉浸式翻译替代品（为什么替代，众所周知的原因）支持网页全文、划词、输入框、视频字幕和 PDF 等多种翻译场景，并可以接入多种传统翻译服务或 AI 翻译接口。它更适合整页和双语对照阅读，也可以针对不同网站设置独立的翻译规则 | [简约翻译](https://chromewebstore.google.com/detail/kiss-translator/bdiifdefkgmcblbcghdlonllpjhhjgof) |
+| 篡改猴（Tampermonkey） | 别的可以不装，这个你必须装。用来安装、管理、启用和更新用户脚本的扩展，也是“油猴脚本备份”所依赖的脚本管理器。 | [篡改猴（Tampermonkey）](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
